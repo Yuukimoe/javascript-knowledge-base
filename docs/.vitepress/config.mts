@@ -6,7 +6,7 @@ export default defineConfig({
   description: "placeholder...",
   base: '/javascript-knowledge-base/',
   head: [
-    ['link', { rel: 'icon', href: '/javascript-knowledge-base/assets/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/javascript-knowledge-base/favicon.ico' }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

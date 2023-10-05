@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "JavaScript knowledge base",
   description: "placeholder...",
-  base: "/javascript-knowledge-base/",
+  base: '/javascript-knowledge-base/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

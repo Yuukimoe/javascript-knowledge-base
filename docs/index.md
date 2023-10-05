@@ -25,6 +25,8 @@ features:
 
 # JavaScript knowledge base
 
+这个站点是参考 [JavaScript Developer Roadmap](https://roadmap.sh/javascript) 制作的 JavaScript 知识库。你可以在 [GitHub](https://github.com/m03uk1/javascript-knowledge-base/) 找到这个项目的源代码，在 [Notion](https://m03uk1.notion.site/JavaScript-81ba996ec3b4418185d9442a347aa24a) 中查看对应的知识体系和参考资料。
+
 ::: details Chatper 1 - Introduction to JavaScript
 
 * [What is JavaScript?](./01-introduction-to-java-script/01-introduction-to-java-script)

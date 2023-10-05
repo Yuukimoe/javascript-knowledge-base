@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "JavaScript Knowledge Base",
+  title: "JavaScript knowledge base",
   description: "placeholder...",
   base: '/javascript-knowledge-base/',
   head: [
@@ -12,7 +12,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      // { text: 'GitHub', link: 'https://github.com/m03uk1/javascript-knowledge-base/' },
+      { text: 'GitHub', link: 'https://github.com/m03uk1/javascript-knowledge-base/' },
       { text: 'Notion', link: 'https://m03uk1.notion.site/JavaScript-81ba996ec3b4418185d9442a347aa24a' }
     ],
 
@@ -44,8 +44,8 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    // socialLinks: [
+    //   { icon: 'github', link: 'https://github.com/m03uk1/javascript-knowledge-base/' },
+    // ]
   }
 })

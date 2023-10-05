@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules
+
+# vuepress build output
+docs/.vitepress/dist
+
+# cache
+docs/.vitepress/cache

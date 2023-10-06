@@ -29,7 +29,7 @@ features:
 
 ::: details Chatper 1 - Introduction to JavaScript
 
-* [What is JavaScript?](./01-introduction-to-java-script/01-introduction-to-java-script)
+* [What is JavaScript?](./01-introduction-to-java-script/01-what-is-java-script)
 * [History of JavaScript](./01-introduction-to-java-script/02-history-of-java-script)
 * [How to run JavaScript?](./01-introduction-to-java-script/03-how-to-run-java-script)
 :::

@@ -1,4 +1,13 @@
 {
     "editor.formatOnSave": true,
-    "markdown.extension.toc.levels": "2..6"
+    "markdown.extension.toc.levels": "2..6",
+    "files.exclude": {
+        ".github": true,
+        ".gitignore": true,
+        ".vscode": true,
+        "docs/.vitepress/cache": true,
+        "docs/.vitepress/dist": true,
+        "node_modules": true,
+        "package*.json": true
+    }
 }

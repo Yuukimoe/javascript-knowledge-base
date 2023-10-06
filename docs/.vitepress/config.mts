@@ -20,7 +20,7 @@ export default defineConfig({
       {
         text: 'Introduction to JavaScript',
         items: [
-          { text: 'What is JavaScript?', link: '/01-introduction-to-java-script/01-introduction-to-java-script' },
+          { text: 'What is JavaScript?', link: '/01-introduction-to-java-script/01-what-is-java-script' },
           { text: 'History of JavaScript', link: '/01-introduction-to-java-script/02-history-of-java-script' },
           { text: 'How to run JavaScript?', link: '/01-introduction-to-java-script/03-how-to-run-java-script' },
         ]
